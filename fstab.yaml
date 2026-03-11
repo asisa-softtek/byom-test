@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://common-ducks-cover.loca.lt"
+    type: "markup"
+    suffix: ".html"
